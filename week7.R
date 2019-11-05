@@ -94,3 +94,5 @@ simulation(1000, 10000, 0.4)
 simulation(1000, 10000, 0.3)
 simulation(1000, 10000, 0.2)
 simulation(1000, 10000, 0.1)
+
+print("Work is done")
